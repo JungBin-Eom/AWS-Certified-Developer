@@ -12,7 +12,7 @@ Resources:
     Type: AWS::Serverless::SimpleTable
   helloworldpython3:
     Properties:
-      CodeUri: s3://stephane-code-sam/ea2521cec3989f886f87639ff492c07e
+      CodeUri: s3://ricky-code-sam/ea2521cec3989f886f87639ff492c07e
       Description: A starter AWS Lambda function.
       Environment:
         Variables:
