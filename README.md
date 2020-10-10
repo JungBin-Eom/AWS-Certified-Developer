@@ -6,6 +6,7 @@ AWS Certified DevOps Engineer를 최종 목표로 하나씩 취득해보자💪
 
 ### AWS Certified Developer(AWS 공인 개발자) 시험은
 AWS 기반 애플리케이션의 개발 및 유지 관리 실무 경험이 1년 이상 되고 개발 역할을 수행하는 사람을 대상으로 합니다.
+> https://aws.amazon.com/ko/certification/certified-developer-associate/
 ##### 자격증을 통해 검증되는 능력
 - 핵심 AWS 서비스, 사용, 기본 AWS 아키텍처 모범 사례를 이해하고 있음을 증명
 - AWS를 사용하여 클라우드 기반 애플리케이션을 능숙하게 개발, 배포 및 디버깅할 수 있음을 증명
