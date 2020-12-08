@@ -4,6 +4,11 @@ AWS Certified DevOps Engineer를 최종 목표로 하나씩 취득해보자💪
 
 ---
 
+2020.12.01 오프라인 시험으로 합격하였습니다!  
+https://www.youracclaim.com/badges/f1ec71d1-92dd-4162-b900-15717ab55617/public_url
+
+---
+
 ### AWS Certified Developer(AWS 공인 개발자) 시험은
 AWS 기반 애플리케이션의 개발 및 유지 관리 실무 경험이 1년 이상 되고 개발 역할을 수행하는 사람을 대상으로 합니다.
 > https://aws.amazon.com/ko/certification/certified-developer-associate/
@@ -27,8 +32,3 @@ AWS 기반 애플리케이션의 개발 및 유지 관리 실무 경험이 1년 
 - 개발 프로세스에 컨테이너를 사용하는 데 대한 이해
   
 <img src="https://user-images.githubusercontent.com/61479654/95557601-00157600-0a50-11eb-9dc2-6f79e29b5a78.png"  width="300" height="300">
-
----
-
-2020.12.01 오프라인 시험으로 합격하였습니다!
-https://www.youracclaim.com/badges/f1ec71d1-92dd-4162-b900-15717ab55617/public_url
